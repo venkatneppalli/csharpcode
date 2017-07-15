@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow_Project", "SpecFlow_Project\SpecFlow_Project.csproj", "{84621D2D-3D1A-4A58-9B0F-02ABFA5C3C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{8C3FF432-6C89-4F9B-8A46-B44F22664785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow_NewProject", "SpecFlow_NewProject\SpecFlow_NewProject.csproj", "{B4DE45C4-E2D1-448D-9602-BFB22643FF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84621D2D-3D1A-4A58-9B0F-02ABFA5C3C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84621D2D-3D1A-4A58-9B0F-02ABFA5C3C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84621D2D-3D1A-4A58-9B0F-02ABFA5C3C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84621D2D-3D1A-4A58-9B0F-02ABFA5C3C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3FF432-6C89-4F9B-8A46-B44F22664785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3FF432-6C89-4F9B-8A46-B44F22664785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3FF432-6C89-4F9B-8A46-B44F22664785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3FF432-6C89-4F9B-8A46-B44F22664785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DE45C4-E2D1-448D-9602-BFB22643FF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DE45C4-E2D1-448D-9602-BFB22643FF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DE45C4-E2D1-448D-9602-BFB22643FF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DE45C4-E2D1-448D-9602-BFB22643FF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
